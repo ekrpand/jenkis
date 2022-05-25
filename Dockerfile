@@ -1,3 +1,3 @@
 
 FROM nginx:latest
-ADD . /var/www/html
+ADD . /usr/share/nginx/html
